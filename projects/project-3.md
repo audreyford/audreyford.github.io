@@ -12,9 +12,7 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<video controls="controls" mute="mute" preload="auto">
-  <source src="https://youtu.be/dfMw2aNkqho" type="video/webm" /> 
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfMw2aNkqho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
