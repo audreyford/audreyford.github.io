@@ -20,38 +20,10 @@ Acconciature translates to "Hairstyles" in english.  This is a short film by Hai
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Jake Acedo is a Hawaii Based Editorial and InSalon Stylist. From doing Hair for Hawaii's top Fashion Magazines like Alamoana,Modern Luxury, and HiLuxury (to name a few) and working in salon giving his clients the latest trends, Jake Acedo has emerged himself into his artistry. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+Started his career working at one of Honolulu's top salon and assisting one of Hawaii's best stylist gave Jake the opportunity and education to be the best. "Being able to assist was the greatest thing I've done, i got to really be in my mentor's shoe and almost see what goes on in an artists mind" Jake says. Creating his first Hair Collection titled "Acconciature" in a private industry event, Jake raised the bar for his cutting edge style and really put his name out in Honolulu. Now Jake Acedo is working in the beautiful town of Kailua at the Foundry in an intimate creative setting.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
