@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/acconciature.jpg
+title: Acconciature
+permalink: projects/acconciature
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2011
 labels:
   - Lisp
   - GitHub
