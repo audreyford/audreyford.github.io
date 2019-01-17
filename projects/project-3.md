@@ -28,5 +28,5 @@ Started his career working at one of Honolulu's top salon and assisting one of H
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.youtube.com/channel/UCwb56i3dMUBHfYMTCaCCx9A"><i class="large github icon "></i>YouTube/JakeAcedo</a>
 
