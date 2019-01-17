@@ -7,9 +7,9 @@ permalink: projects/acconciature
 # All dates must be YYYY-MM-DD format!
 date: 2011
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Videography
+  - Photography
+summary: A short film I starred/worked on in 2011.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMw2aNkqho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
