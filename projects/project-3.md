@@ -14,9 +14,8 @@ summary: A short film I starred/worked on in 2011.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMw2aNkqho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Acconciature translates to "Hairstyles" in english.  This is a short film by Hairdresser, Jake Acedo with Models, Audrey Ford, Kelly White, and Molly Joule.
 
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
