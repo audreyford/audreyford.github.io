@@ -41,8 +41,6 @@
     {
       "name": "Software Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -51,7 +49,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Photography",
       "keywords": [
       ]
     }
@@ -84,9 +82,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science with a Security Science focus",
+      "studyType": "B.A.",
+      "startDate": "2017-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,12 +93,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Tesla",
+      "position": "Customer Experience Specialist",
+      "website": "http://www.tesla.com/",
+      "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
@@ -108,10 +106,10 @@
     },
     {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "Web Applications Developer",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2019-01-01",
+      "endDate": "present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
