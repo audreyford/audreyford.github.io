@@ -9,7 +9,7 @@
     "summary": "Currently a student at University of Hawaii at Manoa pursuing a bachelor's degree in Computer Science with a focus in Security Sciences.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -81,11 +81,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science with a Security Science focus",
       "studyType": "B.A.",
-      "startDate": "2017-01-01",
+      "startDate": "2017",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal Arts and Sciences",
+      "studyType": "A.A.",
+      "startDate": "",
+      "endDate": "2016",
       "gpa": "",
       "courses": [
       ]
