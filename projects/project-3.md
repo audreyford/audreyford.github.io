@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/acconciature.jpg
+image: images/acconciature320.jpg
 title: Acconciature
 permalink: projects/acconciature
 # All dates must be YYYY-MM-DD format!
