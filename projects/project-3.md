@@ -14,7 +14,7 @@ summary: A short film I starred and worked on in 2012.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMw2aNkqho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Acconciature translates to "Hairstyles" in english.  This is a short film by Hairdresser, Jake Acedo with Models, Audrey Ford, Kelly White, and Molly Joule.
+Acconciature translates to "Hairstyles" in english.  This is a short film by hair stylist, Jake Acedo with models, Audrey Ford, Kelly White, and Molly Joule.
 
 <hr>
 
