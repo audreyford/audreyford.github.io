@@ -20,6 +20,8 @@ summary: I starred and assisted with production of a local television show in 20
 <div class="ui small rounded images">
   <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp.jpg">
   <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp2.jpg">
+  <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp4.jpg">
+  <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp5.jpg">
 </div>
 
 <hr>
