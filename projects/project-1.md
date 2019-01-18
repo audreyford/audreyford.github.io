@@ -18,8 +18,8 @@ summary: I starred and assisted with production of a local television show in 20
 <hr>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp.jpg">
+  <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
