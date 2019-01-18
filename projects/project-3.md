@@ -19,6 +19,7 @@ Acconciature translates to "Hairstyles" in english.  This is a short film by Hai
 
 <hr>
 
+<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/wsalon.jpg">
 
 Jake Acedo is a Hawaii Based Editorial and InSalon Stylist. From doing Hair for Hawaii's top Fashion Magazines like Alamoana,Modern Luxury, and HiLuxury (to name a few) and working in salon giving his clients the latest trends, Jake Acedo has emerged himself into his artistry. 
 
