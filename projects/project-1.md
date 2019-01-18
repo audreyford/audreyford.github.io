@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vamp6.jpg
+image: images/vamp320.jpg
 title: Miss Vamp Hawaii
 permalink: projects/missvamphawaii
 # All dates must be YYYY-MM-DD format!
