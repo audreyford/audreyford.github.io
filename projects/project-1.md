@@ -20,13 +20,11 @@ summary: I starred and assisted with production of a local television show in 20
 <div class="ui small rounded images">
   <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp.jpg">
   <img class="ui image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/vamp2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 <hr>
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Source: <a href="https://www.youtube.com/channel/UCWYVr3kjy7ztml7qlkaKjOg"><i class="large youtube icon "></i>YouTube/DjNocturna</a>
 
 
 
