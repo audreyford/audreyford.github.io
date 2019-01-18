@@ -30,7 +30,7 @@ Acconciature is one of Jake's largest showcase.  It was a three month process ju
 
 The whole event was a positive experience and I was scouted for more jobs in modeling afterward.  This has even led me to sign with Hawaii's top modeling agency Premier Models and Talent.  It was also such a treat to work on an avant garde videography/photography project as well since the Hawaii market is typically swimsuit and commercials.
 
-<img class="ui large rounded image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/acconciature2.jpg">
+<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/acconciature2.jpg">
 
 <hr>
 
