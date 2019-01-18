@@ -30,9 +30,7 @@ Have you ever dreamed of becoming a model?  I have, and it was such an honor to 
 
 Acconciature is one of Jake's largest showcase.  It was a three month process just to get ready for the show.  First the video I posted above was made to be played during the opening of the large runway show hosted by W Salon which was held at the Ala Moana Shopping Center for their annual Shop o' Lea event. If you noticed my hair in the video is an orange-red shade (yes, it's all my real hair!) which was the pantone color of the year in 2012.  Jake made some avant garde hair pieces to be put in during the main runway event, I had four completely different hairstyles/hair color within that three month time frame.  Besides the obvious of being a model, myself and the other models had our own 'homework' to assist with wardrobing, choreography, and just any ideas and suggestions to make this a fabulous event!
 
-The whole event was a positive experience and I was scouted for more jobs in modeling afterward.  This has even led me to sign with Hawaii's top modeling agency Premier Models and Talent.  It is such a treat to work on avant garde videography/photography as the Hawaii market is typically swimsuit and commercials.
-
-<img class="ui medium rounded image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/wsalon2.jpg">
+The whole event was a positive experience and I was scouted for more jobs in modeling afterward.  This has even led me to sign with Hawaii's top modeling agency Premier Models and Talent.  It was also such a treat to work on an avant garde videography/photography project as well since the Hawaii market is typically swimsuit and commercials.
 
 <hr>
 
