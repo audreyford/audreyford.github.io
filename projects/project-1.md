@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/vamp3.jpg
 title: Miss Vamp Hawaii
 permalink: projects/missvamphawaii
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2013
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Videography
+  - Photography
+  - Broadcast
+  
+summary: I starred and assisted with production of a local television show in 2013.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aOyP6OlcGfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
