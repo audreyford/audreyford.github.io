@@ -56,7 +56,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
@@ -72,10 +72,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Language Skills",
+      "level": "",
+      "keywords": [
+        "English",
+        "Cantonese",
+        "Mandarin"
       ]
     }
   ],
@@ -129,12 +135,12 @@
   ],
   "volunteer": [
     {
-      "company": "Premier Models and Talent",
+      "organization": "Premier Models and Talent",
       "website": "http://www.premiermodeling.com",
       "position": "Model/Actor",
       "startDate": "2015-01-01",
       "endDate": "Present",
-      "summary": "HI Market, Lifestyle, Commercial, Print",
+      "summary": "HI Market, Lifestyle, Commercial, Print.",
       "highlights": [
         "Featured in local HI print and runways.",
         "Casted in local television and commercials."
