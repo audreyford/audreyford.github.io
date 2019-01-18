@@ -9,7 +9,7 @@ date: 2012
 labels:
   - Videography
   - Photography
-summary: A short film I starred/worked on in 2012.
+summary: A short film I starred and worked on in 2012.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMw2aNkqho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
