@@ -30,7 +30,7 @@ Acconciature is one of Jake's largest showcase.  It was a three month process ju
 
 The whole event was a positive experience and I was scouted for more jobs in modeling afterward.  This has even led me to sign with Hawaii's top modeling agency Premier Models and Talent.  It is such a treat to work on avant garde videography/photography as the Hawaii market is typically swimsuit and commercials.
 
-<hr>
+</hr>
 
 Source: <a href="https://www.youtube.com/channel/UCwb56i3dMUBHfYMTCaCCx9A"><i class="large youtube icon "></i>YouTube/JakeAcedo</a>
 
