@@ -17,7 +17,7 @@ MySpace had their success but it was drowned out when Facebook arrived.  I was b
 
 ## Athletic software engineering
 
-To get better at Javascript athletic software engineering is quite useful since it’s a good way to practice and develop my skills on the daily.  I do admit I get very anxious during practice our practice WODs in class but was pleasantly surprised to see myself doing well.  Besides getting better at Javascript, I think athletic software engineering will help me overcome this negative anxious feeling to become something I can look forward to!
+To get better at Javascript, athletic software engineering is quite useful since it’s a good way to practice and develop my skills on the daily.  I do admit I get very anxious during our practice WODs in class but I was pleasantly surprised to see myself doing well.  Besides getting better at Javascript, I think athletic software engineering will help me overcome this negative anxious feeling to become something I can look forward to!
 
 ## Does not feel like a chore
 
