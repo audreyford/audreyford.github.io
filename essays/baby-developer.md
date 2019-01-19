@@ -7,7 +7,7 @@ labels:
   - Computer Science
   - Javascript
 ---
-<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/tesla.jpg">
+<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/tom.jpg">
 
 I would currently consider myself what I would call a ‘Baby Developer’.  I am a newbie when it comes to programming;  I have only taken classes on Java, C, and C++ so far.  You are probably wondering how/why I got into programming/development?  During my teenage years, is when I got into online journals and social networking.  In middle school, a web journal called Xanga was really popular among myself and my peers.  I would spend hours designing the perfect layout with my favorite colors and pictures of my favorite musicians as the theme.  When I was in high school, that was when MySpace came out.  It was pretty much Xanga on steroids; I created my own page layout, added my favorite song/music video to play in the background, and adding sparkly gifs to my friend’s comment section.  As a kid, I had no idea I was actually dabbling in Javascript, HTML, and CSS.
 
