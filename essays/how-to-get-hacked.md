@@ -25,3 +25,9 @@ Here is a ‘not so smart’ way of asking a question from Stack Overflow (I hav
 ## Ask the right questions, get on the same level
 
 As you can see, asking the right questions will lead to effective and efficient help.  You can actually see if anyone views your question on Stack Overflow.  The ‘smart’ question has more views because it attracted the attention of other hackers and is helping other developers with the same issue.  The ‘not so smart’ question has very little views because the subject line does not catch much attention and the lack of responses show that it is not worth any hackers’ time to merit a response.  Hackers will help other hackers; get on the same level or be subject to ridicule. 
+
+<hr>
+Source: 
+<a href="http://www.catb.org/esr/faqs/smart-questions.html">HowToAskQuestionsTheSmartWay/EricRaymond</a>
+<a href="https://stackoverflow.com/questions/54290247/selenium-webdriver-not-executing-javascript">StackOverflow/Smart</a>
+<a href="https://stackoverflow.com/questions/54361056/what-is-a-best-strategy-to-clone-git-repository">StackOverflow/NotSoSmart</a>
