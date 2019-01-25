@@ -29,5 +29,9 @@ As you can see, asking the right questions will lead to effective and efficient 
 <hr>
 Source: 
 <a href="http://www.catb.org/esr/faqs/smart-questions.html">HowToAskQuestionsTheSmartWay/EricRaymond</a>
+<hr>
+Source:
 <a href="https://stackoverflow.com/questions/54290247/selenium-webdriver-not-executing-javascript">StackOverflow/Smart</a>
+<hr>
+Source:
 <a href="https://stackoverflow.com/questions/54361056/what-is-a-best-strategy-to-clone-git-repository">StackOverflow/NotSoSmart</a>
