@@ -20,7 +20,7 @@ Here is a ‘smart’ way of asking a question from Stack Overflow (I have inclu
 
 <img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/loser.png">
 
-Here is a ‘not so smart’ way of asking a question from Stack Overflow (I have included a snippet of this question and a link to review for reference down below.).  First, the user does not bother to use spell check or check their own grammar before posting.  Their problem is also a an easily solvable problem with a quick Google search.  The very first sentence is filled with small talk noting that the solution has already been solved elsewhere and this posting ends with this user asking hackers for a ‘freebie’ because it is a “time-taking process”.  This user is not a fellow ‘hacker’ but a ‘loser’ as described by Eric Raymond.  There is no real solution posted because this is not worth the time for a real hacker to answer.  
+Here is a ‘not so smart’ way of asking a question from Stack Overflow (I have included a snippet of this question and a link to review for reference down below.).  First, the user does not bother to use spell check or check their own grammar before posting.  Their problem is also an easily solvable problem with a quick Google search.  The very first sentence is filled with small talk noting that the solution has already been solved elsewhere and this posting ends with this user asking hackers for a ‘freebie’ because it is a “time-taking process”.  This user is not a fellow ‘hacker’ but a ‘loser’ as described by Eric Raymond.  There is no real solution posted because this is not worth the time for a real hacker to answer.  
 
 ## Ask the right questions, get on the same level
 
