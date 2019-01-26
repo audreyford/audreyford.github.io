@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/breakthefall320.jpg
 title: Break the Fall
-permalink: projects/breakthefall
+permalink: projects/break-the-fall
 # All dates must be YYYY-MM-DD format!
 date: 2014
 labels:
