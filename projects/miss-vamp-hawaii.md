@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vamp320.jpg
 title: Miss Vamp Hawaii
-permalink: projects/missvamphawaii
+permalink: projects/miss-vamp-hawaii
 # All dates must be YYYY-MM-DD format!
 date: 2013
 labels:
