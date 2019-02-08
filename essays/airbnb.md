@@ -21,3 +21,7 @@ After my first week of ESLint with IntelliJ, checking off all of those preferenc
 ## AirBnB | ESLint are relevant
 
 I have never used the AirBnB app itself and I probably will not be using it anytime soon (I love staying in hotels) but there is no denying the impact of their JavaScript Coding Standards along with ESLint.   This is not something the professor made up just to throw into the curriculum that we will never see again.  I really do enjoy learning the modules, languages, and software in this course and I am looking forward to implementing them as a software developer.
+
+<hr>
+Source:
+<a href="https://github.com/airbnb/javascript">AirBnB/JavaScript</a>
