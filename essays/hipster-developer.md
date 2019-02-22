@@ -19,8 +19,8 @@ But why bother learning and using Semantic UI?  What is the benefit?  One, becau
 
 ## Why sell yourself short?
 
-Do you use social media?  My favorite part of Semantic UI is the abundance of modern icons you can link to your webpage.  I also love emojis; gone are the days of the colon and parenthesis smiley faces.  Icons and emoji are trendy so it will definitely garner more foot traffic compared to a raw website and that is why the client hired a professional to design such a webpage instead of making it themselves.
+Do you use social media?  My favorite part of Semantic UI is the abundance of modern icons you can link to your webpage.  I also love emojis; gone are the days of the colon and parenthesis smiley faces.  Icons and emoji are trendy so it will definitely garner more foot-traffic compared to a raw website, and isn't that why the client hired a professional to design such a webpage instead of making it themselves in the first place?
 
-## Hipster Trendy
+## My glass of whiskey may not be your glass of whiskey
 
-In the end, it really all is a preference thing.  There are people who love simplicity.  Trendy is definitely more popular and will grab more attention, but sometimes all you need is something subtle to get the job done.  
+In the end, it really all is a preference thing.  There are people who love simplicity.  My glass of whiskey may not be your glass of whiskey.  Trendy is definitely more popular and will grab more attention, but sometimes all you need is something subtle to get the job done.
