@@ -15,7 +15,7 @@ As a ‘Baby Developer’, UI Frameworks is completely new to me.  What do I thi
 
 ## HTML and CSS's 'Hipster' relative
 
-But why bother learning and using Semantic UI?  What is the benefit?  One, because it simply looks cool, and Two, because you get a more quality product compared to raw HTML and CSS.  For example, I could go to a dive-bar and order an old fashioned for $8, but do I want to? No.  I prefer to go to those trendy, hipster-bars where they use a perfectly round (or a large square) ice cube with a nice Japanese whiskey and pay $18 for it.  Same idea when you start taking on clients as a developer; Why sell yourself short by making web pages in raw HTML and CSS when you could increase your value by including some UI Framework doing the same job!  
+But why bother learning and using Semantic UI?  What is the benefit?  One, because it simply looks cool, and Two, because you get a more quality product compared to raw HTML and CSS.  For example, I could go to a dive-bar and order an old-fashioned for $8, but do I want to? No.  I prefer to go to those trendy, hipster-bars where they use a perfectly round (or a large square) ice cube with a nice Japanese whiskey and pay $18 for it.  Same idea when you start taking on clients as a developer; Why sell yourself short by making web pages in raw HTML and CSS when you could increase your value by including some UI Framework doing the same job!  
 
 ## Why sell yourself short?
 
