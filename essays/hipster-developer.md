@@ -9,7 +9,7 @@ labels:
   - UI Framework
   - Semantic UI
 ---
-<img class="ui medium left floated image" src="">
+<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/whiskey.jpg">
 
 As a ‘Baby Developer’, UI Frameworks is completely new to me.  What do I think of it so far?  I have only just recently dipped my toes into HTML and CSS.  UI Frameworks to me is  HTML and CSS’s ‘Hipster’ relative.  Both raw HTML and CSS, and UI Frameworks will get the job done but I personally find UI Frameworks much more modern, fun, and pleasing to look it.  It is not for everyone, but I am a millennial and I personally like all this cool, new, modern interface.
 
