@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Artificial Intelligence
 ---
-<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/whiskey.jpg">
+<img class="ui medium left floated image" src="https://raw.githubusercontent.com/audreyford/audreyford.github.io/master/images/teslascreen.jpg">
 
 I love cars, and I love technology; self-driving cars?  Absolutely!  Sign me up!  As of now there are currently no fully self-driving vehicles available to the public for purchase.  However, I am a proud owner of a Tesla which is probably the closest thing you can get to a fully autonomous vehicle right now and the comments I get regarding the ‘Autopilot’ (semi-autonomous driving) feature is just absolutely ludicrous.
 
