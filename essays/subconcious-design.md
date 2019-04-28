@@ -6,7 +6,10 @@ date: 2019-04-28
 labels:
   - Design Patterns
 ---
-	In life, structures or patterns are necessary on how we do day to day things whether it be for personal reasons, work, academic, etc.  Whether we like it or not, these design patterns become necessary to make things efficient and organized.  How do I know it is efficient?  It gets my job done right?  And these patterns are organized since I would use different design patterns for different tasks.
+
+<img class="ui medium left floated image" src="https://www.tesla.com/tesla_theme/assets/img/solar/panels/EVNT_Pasadena_CA_160630_AD-0349_14_RGB-WiderTaller-2.jpg?20180104">
+
+In life, structures or patterns are necessary on how we do day to day things whether it be for personal reasons, work, academic, etc.  Whether we like it or not, these design patterns become necessary to make things efficient and organized.  How do I know it is efficient?  It gets my job done right?  And these patterns are organized since I would use different design patterns for different tasks.
 
 ## Mundane Tasks
 
