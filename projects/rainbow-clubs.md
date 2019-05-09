@@ -1,11 +1,23 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: "My Sample Project Title"
-date: 2019-05-08
+image: 
+title: Rainbow Clubs
+permalink: projects/rainbow-clubs
+# All dates must be YYYY-MM-DD format!
+date: 2019
 labels:
-  - Robotics
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Javascript
+  - HTML
+  - CSS
+  - Meteor
+  - React
+summary: My ICS314 Final Project.
 ---
-Project description goes here.
+
+<img class="ui medium left floated image" src="https://rainbowclubs.github.io/doc/m3/nobody_landing.png">
+
+
+<hr>
+
+Source: <a href="https://rainbowclubs.github.io"><i class="large github icon "></i>GitHub/rainbowclubs</a>
