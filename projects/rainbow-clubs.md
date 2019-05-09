@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/uhmlogo.jpg
 title: Rainbow Clubs
 permalink: projects/rainbow-clubs
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,6 @@ labels:
   - HTML
   - CSS
   - Meteor
-  - React
 summary: My ICS314 Final Project.
 ---
 
@@ -20,4 +19,4 @@ summary: My ICS314 Final Project.
 
 <hr>
 
-Source: <a href="https://rainbowclubs.github.io"><i class="large github icon "></i>GitHub/rainbowclubs</a>
+Source: <a href="https://rainbowclubs.github.io"><i class="large github icon "></i>GitHub/RainbowClubs</a>
